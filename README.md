@@ -22,8 +22,7 @@ First of all, we use [IconFont](https://www.iconfont.cn/) to manange our icons. 
 * Add **Icon Render** Plugin to your project;
 * Under Plugins, Search **Icon Render** plugin and enable it.
 
-![2 1-EnablePlugin](https://github.com/XSGarage/IconRender-Support/assets/12060054/6b091486-f73e-433e-bd90-3b3ed0088c6a)
-
+![demo-6](https://github.com/XSGarage/IconRender-Support/assets/12060054/f55cf177-b51a-4692-987a-fed0cb4fdadb)
 
 #### 2.2 Search and find IconWidget
 * Under **UserWidger** panel, search and find **Icon Widget**.
@@ -46,20 +45,23 @@ First of all, we use [IconFont](https://www.iconfont.cn/) to manange our icons. 
 * Under tab **Detail**, find **Font** attribute under **Appearance** panel.
 * Expand **Font** attribute, click **Font Family** and select **Font** asset from previose step.
 
-![3 2-UseImportedFont](https://github.com/XSGarage/IconRender-Support/assets/12060054/73802538-34b8-4c79-bd62-f692f8c46b3b)
+![3 2-use-imported-font](https://github.com/XSGarage/IconRender-Support/assets/12060054/6b5754c5-0213-4abf-ba52-f180e54dde0b)
 
 
 #### 3.3 Search Unicode and render
-* Open icon detail on your project, find **Unicode** attribute and copy it;
 * Open **Unreal Editor**, find the **Icon Widget** component;
-* Paste to **Unicode** attribute under **Content** panel;
+* Click **+** button in **Unicode** attribute under **Configuration** panel;
+* The panel with all icons will show in the sreen, chioce the one you like;
 * Icon will render on screen;
 * 🎉 Congratulation, you have learned how to use **Icon Render**;
 * For Size, you can change it with **Font.Size** attribute under **Appearance** panel;
 * For Color, you can change it with **Color and Opacity** attribute under **Appearance** panel;
 
-![3 3 1-FindUnicode](https://github.com/XSGarage/IconRender-Support/assets/12060054/086b5267-64de-4610-8a83-af4a3131d07b)
-![3 3 2PasteUnicode](https://github.com/XSGarage/IconRender-Support/assets/12060054/1f6fb551-dbf3-428a-977d-5b12adf8a19d)
+![3 3 1-open-panel](https://github.com/XSGarage/IconRender-Support/assets/12060054/59201c3b-1d4c-4b28-bb99-c9b3f67d199a)
+![3 3 2-show-panel](https://github.com/XSGarage/IconRender-Support/assets/12060054/6c452e53-c086-49fe-8f39-211394953c37)
+![3 3 3-icon-rendered](https://github.com/XSGarage/IconRender-Support/assets/12060054/5aa6c9d8-c831-4795-82b3-1d12fd573983)
+
+
 
 
 
